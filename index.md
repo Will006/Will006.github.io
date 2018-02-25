@@ -9,18 +9,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+##### Education
+-Mira Costa Community College (GPA: 3.706)  -Software Engineer major
+-High school diploma from Canyon Crest Academy
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+##### Skills 
+- Python (3 months expericence)
+- Java (1 year experience)
+  -Currently attending Java III
+  -Learning unit test and data structures
+-Android programming
+  -Notes app (in progress)
+Dividing problems into manageable portions for group projects
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
