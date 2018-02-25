@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+#### William Pickering
+(858) 436-4731
+williampickeringiii@gmail.com
 
-You can use the [editor on GitHub](https://github.com/Will006/Will006.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-##### Education
+###### Education
 -Mira Costa Community College (GPA: 3.706)  -Software Engineer major
 -High school diploma from Canyon Crest Academy
 
-##### Skills 
+###### Skills 
 - Python (3 months expericence)
 - Java (1 year experience)
   -Currently attending Java III
   -Learning unit test and data structures
 -Android programming
   -Notes app (in progress)
-Dividing problems into manageable portions for group projects
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Will006/Will006.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-Programs
+  -LTspice simulator
+  -Autodesk Inventor and Revit
+  -Word, Excel, and PowerPoint
+###### Goals:
+  To transfer to California Polytechnic San Luis Obispo or UC Irvine to obtain a Bachelor of the Since degree in Software Engineering with a concentration in cybersecurity.
+  
+###### Job Experience:
+  
+  **Cashier:**
+    September 2016 - Present    Dixieline, Solana Beach
+      -Provide excellent customer service by engaging the customers in conversations about their projects.
+      -Ensured registers were totaled, balanced, and reconciled at closing.
+ 
+ **Technician:**
+    Summer 2016        Connecticut Shotgun Manufacturing Co., New Britain CT
+      -Explored career interest in Manufacturing engineering by obtaining a summer position on the East Coast.
+      -Set up and maintained CNC machines.
+      -Verified tolerances of machined parts against the isometric drawings.
+      -Troubleshoot problems that were rising with deburring parts.
+  **Accountant:**
+    Fall 2013        Canyon Crest Academy, San Diego
+      -Compiled each week's transactions into a spreadsheet to display the total cost and revenue.
+      -Analyzed sales to determined most and least profitable merchandise.
+      -Presented my findings to all department leaders.
+  **Data Analysis:**
+    Summer-Fall 2013    Charter School in Los Angeles Unified     
+      -Transferred printed payroll of over 10 thousand rows of payroll data to an online spreadsheet for digital conversion with a
+      collaborated group of accountants. 
